@@ -5,13 +5,11 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "test:unit": "vue-cli-service test:unit",
+    "test:unit": "vue-cli-service test:unit --watch",
     "lint": "vue-cli-service lint",
     "api": "json-server --watch db.json"
   },
   "dependencies": {
-    "@syncfusion/ej2-data": "^17.4.51",
-    "@syncfusion/ej2-vue-dropdowns": "^17.4.51",
     "axios": "^0.19.2",
     "circular-std": "^1.0.3",
     "core-js": "^3.6.4",
