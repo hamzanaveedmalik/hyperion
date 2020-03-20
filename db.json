@@ -1,0 +1,199 @@
+{
+  "stats": [
+    {
+      "name": "Bindable quotations",
+      "value": 2
+    },
+    {
+      "name": "Unanswered subjectives",
+      "value": 12
+    },
+    {
+      "name": "Expired declarations",
+      "value": 3
+    }
+  ],
+  "upcoming_events": [
+    {
+      "name": "Quote 1232 (Client 1/Obligor 3) Expires",
+      "policy_details": "Policy details etc",
+      "date": "2019-01-30 11:06:25"
+    },
+    {
+      "name": "Declaration 0073980 (Client 1/Obligor 9) Expires",
+      "policy_details": "Policy details etc",
+      "date": "2019-02-12 11:06:25"
+    },
+    {
+      "name": "Renewal available for policy 123",
+      "policy_details": "Policy details etc",
+      "date": "2019-02-21 11:06:25"
+    }
+  ],
+  "statuses": [
+    {
+      "label": "Drafts",
+      "value": "drafts"
+    },
+    {
+      "label": "In the market",
+      "value": "in_the_market"
+    },
+    {
+      "label": "NTU",
+      "value": "ntu"
+    },
+    {
+      "label": "Declined",
+      "value": "declined"
+    },
+    {
+      "label": "Firm ordered",
+      "value": "firm_ordered"
+    },
+    {
+      "label": "Bound",
+      "value": "bound"
+    },
+    {
+      "label": "Closed",
+      "value": "closed"
+    },
+    {
+      "label": "Off risk",
+      "value": "off_risk"
+    },
+    {
+      "label": "Awaiting",
+      "value": "awaiting"
+    }
+  ],
+  "policies": [
+    {
+      "id": 1,
+      "dec_id": "000789679",
+      "placing_broker_company_id": 21,
+      "insured_name": "Company 1",
+      "currency_code": "USD",
+      "product_name": "Non-payment (short term open account/unsecured credit, incl. promissory note, bill of exchange and draft)",
+      "obligor_name": "Bank ABC",
+      "country_name": "Turkey",
+      "indemnity": 10,
+      "status": "bound",
+      "estimated_premium": 2400,
+      "type": "submission",
+      "risk_id": 1,
+      "limit_of_liability": 48000000,
+      "date": "2019-09-30 11:06:25",
+      "policy_period": 90
+    },
+    {
+      "id": 2,
+      "dec_id": "000789679",
+      "placing_broker_company_id": 21,
+      "insured_name": "Company 1",
+      "currency_code": "USD",
+      "product_name": "Non-payment (short term open account/unsecured credit, incl. promissory note, bill of exchange and draft)",
+      "obligor_name": "Bank ABC",
+      "country_name": "Bahrain",
+      "indemnity": 10,
+      "status": "awaiting",
+      "estimated_premium": 2400,
+      "type": "submission",
+      "risk_id": 1,
+      "limit_of_liability": 48000000,
+      "date": "2019-09-30 11:06:25",
+      "policy_period": 60
+    },
+    {
+      "id": 3,
+      "dec_id": "000789679",
+      "placing_broker_company_id": 21,
+      "insured_name": "Company 1",
+      "currency_code": "USD",
+      "product_name": "Non-payment (short term open account/unsecured credit, incl. promissory note, bill of exchange and draft)",
+      "obligor_name": "Bank ABC",
+      "country_name": "Bahrain",
+      "indemnity": 10,
+      "status": "awaiting",
+      "estimated_premium": 2400,
+      "type": "submission",
+      "risk_id": 1,
+      "limit_of_liability": 48000000,
+      "date": "2019-09-30 11:06:25",
+      "policy_period": 60
+    },
+    {
+      "id": 4,
+      "dec_id": "000789679",
+      "placing_broker_company_id": 21,
+      "insured_name": "Company 1",
+      "currency_code": "USD",
+      "product_name": "Non-payment (short term open account/unsecured credit, incl. promissory note, bill of exchange and draft)",
+      "obligor_name": "Bank ABC",
+      "country_name": "Bahrain",
+      "indemnity": 10,
+      "status": "awaiting",
+      "estimated_premium": 2400,
+      "type": "submission",
+      "risk_id": 1,
+      "limit_of_liability": 48000000,
+      "date": "2019-09-30 11:06:25",
+      "policy_period": 60
+    },
+    {
+      "id": 5,
+      "dec_id": "000789679",
+      "placing_broker_company_id": 21,
+      "insured_name": "Company 1",
+      "currency_code": "USD",
+      "product_name": "Non-payment (short term open account/unsecured credit, incl. promissory note, bill of exchange and draft)",
+      "obligor_name": "Bank ABC",
+      "country_name": "Bahrain",
+      "indemnity": 10,
+      "status": "awaiting",
+      "estimated_premium": 2400,
+      "type": "submission",
+      "risk_id": 1,
+      "limit_of_liability": 48000000,
+      "date": "2019-09-30 11:06:25",
+      "policy_period": 60
+    },
+    {
+      "id": 6,
+      "dec_id": "000789679",
+      "placing_broker_company_id": 21,
+      "insured_name": "Company 1",
+      "currency_code": "USD",
+      "product_name": "Non-payment (short term open account/unsecured credit, incl. promissory note, bill of exchange and draft)",
+      "obligor_name": "Bank ABC",
+      "country_name": "Bahrain",
+      "indemnity": 10,
+      "status": "awaiting",
+      "estimated_premium": 2400,
+      "type": "submission",
+      "risk_id": 1,
+      "limit_of_liability": 48000000,
+      "date": "2019-09-30 11:06:25",
+      "policy_period": 60
+    },
+    {
+      "id": 7,
+      "dec_id": "000789679",
+      "placing_broker_company_id": 21,
+      "insured_name": "Company 1",
+      "currency_code": "USD",
+      "product_name": "Non-payment (short term open account/unsecured credit, incl. promissory note, bill of exchange and draft)",
+      "obligor_name": "Bank ABC",
+      "country_name": "Bahrain",
+      "indemnity": 10,
+      "status": "awaiting",
+      "estimated_premium": 2400,
+      "type": "submission",
+      "risk_id": 1,
+      "limit_of_liability": 48000000,
+      "date": "2019-09-30 11:06:25",
+      "policy_period": 60
+    }
+  ]
+}
