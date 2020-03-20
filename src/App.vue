@@ -44,9 +44,6 @@ export default {
   margin-right: 10%;
 }
 
-.stats {
-}
-
 @media screen and (max-width: 768px) {
   .events {
     display: none;
